@@ -1,10 +1,22 @@
+<h1 align="center">
+  <span style="display:inline-block; animation: float 3s ease-in-out infinite; color:#4db8ff;">
+    👋 Hello, I'm Saad Masood
+  </span>
+</h1>
 
+<h2 align="center">
+  <span style="display:inline-block; animation: float 4s ease-in-out infinite;">
+    🧠 AI Engineer
+  </span>
+</h2>
 
-<h1 align="center">👋 Hello, I'm <span style="color:#4db8ff">Saad Masood</span></h1>
-
-<p align="center">
-Aspiring <strong>AI Engineer</strong> | Python Developer | ML Enthusiast
-</p>
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
 
 ---
 
@@ -55,4 +67,3 @@ Here are some of the beginner-friendly AI projects I’ve built:
 <p align="center">
   🔥 “Keep learning, keep building. The future is coded.” 🔥
 </p>
-

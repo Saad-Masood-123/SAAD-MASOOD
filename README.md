@@ -1,22 +1,6 @@
-<h1 align="center">
-  <span style="display:inline-block; animation: float 3s ease-in-out infinite; color:#4db8ff;">
-    👋 Hello, I'm Saad Masood
-  </span>
-</h1>
-
-<h2 align="center">
-  <span style="display:inline-block; animation: float 4s ease-in-out infinite;">
-    🧠 AI Engineer
-  </span>
-</h2>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4DB8FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saad+Masood;AI+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
